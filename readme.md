@@ -1,3 +1,7 @@
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?16AB3506D03488A2F189AD9C8C3D0ED0E45C
+
+
 # Code like a Girl Online 2021
 
 Vítejte v repozitáři projektu Code Like a Girl Online 2021.
